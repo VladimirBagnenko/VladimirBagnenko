@@ -1,6 +1,6 @@
 Id:
 Title:
-Environment
+Environment:
 Steps to reproduce:
 Actual result:
 Expected result:
