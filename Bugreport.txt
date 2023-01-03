@@ -1,5 +1,5 @@
 Id:
-Title:
+Title of  a Bug :
 Steps to reproduce:
 Actual result:
 Expected result:
